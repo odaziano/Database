@@ -1,2 +1,3 @@
 ## Database
-Este es el proceso de aprendizaje del taller de base de datos con SQL, de Casa del Futuro
+Este es el proceso de aprendizaje del taller de Base de Datos con SQL, de Casa del Futuro
+Comenzaremos a utilizar GitHub, para compartir nuestras clase y proyectos
